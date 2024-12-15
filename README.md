@@ -16,6 +16,8 @@ For the project source code and more details, visit:
 - Color switching options: Blue, Green, Red, and Yellow.
 - Clear the canvas with a button click.
 - Interactive and user-friendly interface.
+- No machine learning used – the application relies solely on C.V for object tracking.
+- Doesn't require a powerful system – works efficiently on most standard computers.
 
 ## Requirements
 
